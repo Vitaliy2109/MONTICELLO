@@ -1,0 +1,6 @@
+User agent: *
+
+Disallow: /admin/
+
+Sitemap: https://vitaliy2109.github.io/HomeWorks-Git/32-Exam#2/sitemap.xml
+Host: localhost
